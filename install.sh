@@ -1,23 +1,13 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 set -euo pipefail
 
 PLIST_TEMPLATE="retain.plist.template"
 PLIST_TARGET="$HOME/Library/LaunchAgents/dev.brc-dd.retain.plist"
-SCRIPT_PATH="$HOME/.retain/main.ts"
+SCRIPT_PATH="$HOME/.retain/main.sh"
 SCRIPT_DIR=$(dirname "$SCRIPT_PATH")
 
-echo "🔍 Finding Deno..."
-DENO_PATH=$(which deno)
-
-if [ ! -x "$DENO_PATH" ]; then
-  echo "❌ Deno not found in PATH. Please install Deno first."
-  exit 1
-fi
-
 echo "📄 Generating LaunchAgent plist..."
-sed -e "s|__DENO_PATH__|$DENO_PATH|g" \
-  -e "s|__SCRIPT_PATH__|$SCRIPT_PATH|g" \
+sed -e "s|__SCRIPT_PATH__|$SCRIPT_PATH|g" \
   -e "s|__SCRIPT_DIR__|$SCRIPT_DIR|g" \
   "$PLIST_TEMPLATE" >"$PLIST_TARGET"
 

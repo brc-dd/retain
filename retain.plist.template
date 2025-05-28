@@ -17,9 +17,6 @@
 
     <key>ProgramArguments</key>
     <array>
-      <string>__DENO_PATH__</string>
-      <string>run</string>
-      <string>-A</string>
       <string>__SCRIPT_PATH__</string>
     </array>
 

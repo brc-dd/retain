@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 set -euo pipefail
 
 PLIST_TARGET="$HOME/Library/LaunchAgents/dev.brc-dd.retain.plist"
