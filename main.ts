@@ -18,5 +18,7 @@ for await (
 ) e.isFile && list.push(e.path.slice(root.length + 1))
 
 await Deno.writeTextFile('backup.txt', list.join('\n'))
-await $`cd ~; zip -r .retain/backup.zip -@ < .retain/backup.txt`.noThrow(18, 12)
+
+await $`cd ~; rm -f .retain/backup.zip; zip -r .retain/backup.zip -@ < .retain/backup.txt`
+  .noThrow(12, 18)
 await $`cd ~; cp .retain/backup.zip "$HOME/Library/Mobile Documents/com~apple~CloudDocs/backup.zip"`
