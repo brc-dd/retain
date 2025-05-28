@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "imports": {},
+  "compilerOptions": {
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUncheckedIndexedAccess": true
+  },
+  "fmt": {
+    "lineWidth": 100,
+    "proseWrap": "preserve",
+    "semiColons": false,
+    "singleQuote": true
+  }
+}

@@ -1,0 +1,881 @@
+Library/Application Scripts/com.robinlu.mac.Tooth-Fairy
+Library/Application Support/abnerworks.Typora/themes
+Library/Application Support/activitywatch
+Library/Application Support/Adium 2.0
+Library/Application Support/Adobe/Adobe Illustrator 17
+Library/Application Support/Adobe/Adobe Illustrator 18
+Library/Application Support/Adobe/Adobe Illustrator 19
+Library/Application Support/Adobe/Adobe Illustrator 20
+Library/Application Support/Adobe/Adobe Illustrator 23/en_US/Adobe SVG Filters.svg
+Library/Application Support/Adobe/Adobe Illustrator 23/en_US/Swatches
+Library/Application Support/Adobe/Adobe Illustrator 24/en_US/Adobe SVG Filters.svg
+Library/Application Support/Adobe/Adobe Illustrator 24/en_US/Swatches
+Library/Application Support/Adobe/Adobe Photoshop CC 2013/Presets
+Library/Application Support/Adobe/Adobe Photoshop CC 2014/Presets
+Library/Application Support/Adobe/Adobe Photoshop CC 2015.5/Presets
+Library/Application Support/Adobe/Adobe Photoshop CC 2015/Presets
+Library/Application Support/Adobe/Adobe Photoshop CC 2019/Presets
+Library/Application Support/Adobe/CameraRaw
+Library/Application Support/Adobe/Lightroom
+Library/Application Support/Adobe/OOBE
+Library/Application Support/Airflow
+Library/Application Support/AndroidStudio1.3
+Library/Application Support/appCode20
+Library/Application Support/appCode30
+Library/Application Support/appCode31
+Library/Application Support/AppCode32
+Library/Application Support/Apptivate/hotkeys
+Library/Application Support/Arc/User Data
+Library/Application Support/Atlantis
+Library/Application Support/AUSkey/keystore.xml
+Library/Application Support/Bartender/Bartender.BartenderPreferences
+Library/Application Support/BetterSnapTool
+Library/Application Support/BetterTouchTool/bettersnaptool.bttlicense
+Library/Application Support/BetterTouchTool/bettertouchtool.license
+Library/Application Support/BetterTouchTool/btt_data_store.v2
+Library/Application Support/BetterTouchTool/btt_data_store.v2-shm
+Library/Application Support/BetterTouchTool/btt_data_store.v2-wal
+Library/Application Support/BetterTouchTool/bttdata2
+Library/Application Support/Beyond Compare/BC4Key.txt
+Library/Application Support/Beyond Compare/BCColors.xml
+Library/Application Support/Beyond Compare/BCCommands.xml
+Library/Application Support/Beyond Compare/BCPreferences.xml
+Library/Application Support/BibDesk
+Library/Application Support/Blender
+Library/Application Support/Brackets
+Library/Application Support/BraveSoftware/Brave-Browser/Default/Preferences
+Library/Application Support/Capture One
+Library/Application Support/Cartographica
+Library/Application Support/Cerebro/config.json
+Library/Application Support/Cerebro/plugins
+Library/Application Support/Charles
+Library/Application Support/Choosy/behaviours.plist
+Library/Application Support/CLion2016.2
+Library/Application Support/ClipMenu
+Library/Application Support/Coda 2
+Library/Application Support/Code - Insiders/User/keybindings.json
+Library/Application Support/Code - Insiders/User/settings.json
+Library/Application Support/Code - Insiders/User/snippets
+Library/Application Support/Code - OSS/User/keybindings.json
+Library/Application Support/Code - OSS/User/settings.json
+Library/Application Support/Code - OSS/User/snippets
+Library/Application Support/Code/User/keybindings.json
+Library/Application Support/Code/User/settings.json
+Library/Application Support/Code/User/snippets
+Library/Application Support/Colloquy
+Library/Application Support/ColorSchemer
+Library/Application Support/com.colliderli.iina/input_conf
+Library/Application Support/com.DanPristupov.Fork/custom-commands.json
+Library/Application Support/com.devolutions.remotedesktopmanager.free/Connections.db
+Library/Application Support/com.devolutions.remotedesktopmanager/Connections.db
+Library/Application Support/com.elgato.StreamDeck
+Library/Application Support/com.fournova.Tower2
+Library/Application Support/com.fournova.Tower3
+Library/Application Support/com.lightpillar.Mosaic/MosaicCoreData.storedata
+Library/Application Support/com.proxyman.NSProxy
+Library/Application Support/com.proxyman.NSProxy-setapp
+Library/Application Support/com.slate.Slate
+Library/Application Support/com.tinyapp.TablePlus/Cache/Favorite
+Library/Application Support/com.tinyapp.TablePlus/Cache/History
+Library/Application Support/com.tinyapp.TablePlus/Data
+Library/Application Support/com.tinyapp.TablePlus/Plugins
+Library/Application Support/com.uglyapps.HocusFocus/HocusFocus.db
+Library/Application Support/com.uglyapps.HocusFocus/HocusFocus.db-shm
+Library/Application Support/com.uglyapps.HocusFocus/HocusFocus.db-wal
+Library/Application Support/Concentrate/Concentrate.sqlite3
+Library/Application Support/CoRD
+Library/Application Support/CotEditor
+Library/Application Support/Cursor/User/keybindings.json
+Library/Application Support/Cursor/User/settings.json
+Library/Application Support/Cursor/User/snippets
+Library/Application Support/Cyberduck
+Library/Application Support/DaisyDisk/License.DaisyDisk
+Library/Application Support/Dash/library.dash
+Library/Application Support/Dash/License/license.dash-license
+Library/Application Support/DataGrip2017.3
+Library/Application Support/DataGrip2018.1
+Library/Application Support/DataGrip2018.2
+Library/Application Support/DataGrip2018.3
+Library/Application Support/DataGrip2019.1
+Library/Application Support/Developer/Shared/Xcode/Plug-ins
+Library/Application Support/Dolphin
+Library/Application Support/Dropzone 3
+Library/Application Support/Eagle/Settings
+Library/Application Support/espanso
+Library/Application Support/ExpanDrive
+Library/Application Support/factorio/blueprint-storage.dat
+Library/Application Support/factorio/config
+Library/Application Support/factorio/mods
+Library/Application Support/factorio/player-data.json
+Library/Application Support/factorio/saves
+Library/Application Support/FastScripts
+Library/Application Support/Focus/default.cfg
+Library/Application Support/Forge
+Library/Application Support/ForkLift/Favorites/Favorites.json
+Library/Application Support/Franz/settings
+Library/Application Support/Gear Player/paddata.padl
+Library/Application Support/GIMP/2.10/colorrc
+Library/Application Support/GIMP/2.10/contextrc
+Library/Application Support/GIMP/2.10/controllerrc
+Library/Application Support/GIMP/2.10/devicerc
+Library/Application Support/GIMP/2.10/dockrc
+Library/Application Support/GIMP/2.10/gimprc
+Library/Application Support/GIMP/2.10/gtkrc
+Library/Application Support/GIMP/2.10/menurc
+Library/Application Support/GIMP/2.10/parasiterc
+Library/Application Support/GIMP/2.10/pluginrc
+Library/Application Support/GIMP/2.10/profilerc
+Library/Application Support/GIMP/2.10/sessionrc
+Library/Application Support/GIMP/2.10/templaterc
+Library/Application Support/GIMP/2.10/themerc
+Library/Application Support/GIMP/2.10/toolrc
+Library/Application Support/GIMP/2.10/unitrc
+Library/Application Support/GIMP/2.8/colorrc
+Library/Application Support/GIMP/2.8/contextrc
+Library/Application Support/GIMP/2.8/controllerrc
+Library/Application Support/GIMP/2.8/devicerc
+Library/Application Support/GIMP/2.8/dockrc
+Library/Application Support/GIMP/2.8/gimprc
+Library/Application Support/GIMP/2.8/gtkrc
+Library/Application Support/GIMP/2.8/menurc
+Library/Application Support/GIMP/2.8/parasiterc
+Library/Application Support/GIMP/2.8/pluginrc
+Library/Application Support/GIMP/2.8/profilerc
+Library/Application Support/GIMP/2.8/sessionrc
+Library/Application Support/GIMP/2.8/templaterc
+Library/Application Support/GIMP/2.8/themerc
+Library/Application Support/GIMP/2.8/toolrc
+Library/Application Support/GIMP/2.8/unitrc
+Library/Application Support/Gogland1.0
+Library/Application Support/GoLand2017.3
+Library/Application Support/GoLand2018.1
+Library/Application Support/GoLand2018.2
+Library/Application Support/GoLand2018.3
+Library/Application Support/GoLand2019.2
+Library/Application Support/GrandTotal/AddressBook.plist
+Library/Application Support/Hazel
+Library/Application Support/Hero Lab/customoutput
+Library/Application Support/Hero Lab/data
+Library/Application Support/Hero Lab/docs
+Library/Application Support/Houdini
+Library/Application Support/HyperDock
+Library/Application Support/IdeaIC2016.1
+Library/Application Support/IdeaIC2017.1
+Library/Application Support/IdeaIC2017.2
+Library/Application Support/IdeaIC2017.3
+Library/Application Support/IdeaIC2018.2
+Library/Application Support/IdeaIC2018.3
+Library/Application Support/IdeaIC2019.1
+Library/Application Support/Insomnia
+Library/Application Support/IntelliJIdea12
+Library/Application Support/IntelliJIdea13
+Library/Application Support/IntelliJIdea14
+Library/Application Support/IntelliJIdea15
+Library/Application Support/IntelliJIdea2016.1
+Library/Application Support/IntelliJIdea2016.2
+Library/Application Support/IntelliJIdea2016.3
+Library/Application Support/IntelliJIdea2017.1
+Library/Application Support/IntelliJIdea2017.2
+Library/Application Support/IntelliJIdea2017.3
+Library/Application Support/IntelliJIdea2018.1
+Library/Application Support/IntelliJIdea2018.2
+Library/Application Support/IntelliJIdea2018.3
+Library/Application Support/IntelliJIdea2019.1
+Library/Application Support/IntelliJIdea2019.2
+Library/Application Support/IntelliJIdea2019.3
+Library/Application Support/jesseduffield/lazygit/config.yml
+Library/Application Support/JetBrains/CLion2023.1
+Library/Application Support/JetBrains/CLion2023.2
+Library/Application Support/JetBrains/DataGrip2023.1
+Library/Application Support/JetBrains/DataGrip2023.2
+Library/Application Support/JetBrains/GoLand2023.1
+Library/Application Support/JetBrains/GoLand2023.2
+Library/Application Support/JetBrains/IntelliJIdea2020.1
+Library/Application Support/JetBrains/IntelliJIdea2020.2
+Library/Application Support/JetBrains/IntelliJIdea2020.3
+Library/Application Support/JetBrains/IntelliJIdea2021.1
+Library/Application Support/JetBrains/IntelliJIdea2022.1
+Library/Application Support/JetBrains/IntelliJIdea2022.2
+Library/Application Support/JetBrains/IntelliJIdea2023.1
+Library/Application Support/JetBrains/IntelliJIdea2023.2
+Library/Application Support/JetBrains/PhpStorm2020.1
+Library/Application Support/JetBrains/PhpStorm2020.2
+Library/Application Support/JetBrains/PhpStorm2020.3
+Library/Application Support/JetBrains/PhpStorm2021.1
+Library/Application Support/JetBrains/PhpStorm2021.2
+Library/Application Support/JetBrains/PhpStorm2021.3
+Library/Application Support/JetBrains/PhpStorm2022.1
+Library/Application Support/JetBrains/PhpStorm2022.2
+Library/Application Support/JetBrains/PhpStorm2022.3
+Library/Application Support/JetBrains/PhpStorm2023.1
+Library/Application Support/JetBrains/PhpStorm2023.2
+Library/Application Support/JetBrains/PhpStorm2023.3
+Library/Application Support/JetBrains/PhpStorm2024.1
+Library/Application Support/JetBrains/PyCharm2020.1
+Library/Application Support/JetBrains/PyCharm2020.2
+Library/Application Support/JetBrains/PyCharm2020.3
+Library/Application Support/JetBrains/PyCharm2020.4
+Library/Application Support/JetBrains/PyCharm2023.1
+Library/Application Support/JetBrains/PyCharm2023.2
+Library/Application Support/JetBrains/PyCharmCE2020.1
+Library/Application Support/JetBrains/RubyMine2023.1
+Library/Application Support/JetBrains/RubyMine2023.2
+Library/Application Support/JetBrains/WebStorm2020.1
+Library/Application Support/JetBrains/WebStorm2020.2
+Library/Application Support/JetBrains/WebStorm2020.3
+Library/Application Support/JetBrains/WebStorm2020.4
+Library/Application Support/JetBrains/WebStorm2021.1
+Library/Application Support/JetBrains/WebStorm2021.2
+Library/Application Support/JetBrains/WebStorm2021.3
+Library/Application Support/JetBrains/WebStorm2023.1
+Library/Application Support/JetBrains/WebStorm2023.2
+Library/Application Support/Jumpcut
+Library/Application Support/Kaleidoscope
+Library/Application Support/Karabiner
+Library/Application Support/keepassx/keepassx2.ini
+Library/Application Support/keepassxc/keepassxc.ini
+Library/Application Support/Keyboard Maestro
+Library/Application Support/KeyRemap4MacBook/private.xml
+Library/Application Support/LaunchBar/Actions
+Library/Application Support/LaunchBar/Configuration.plist
+Library/Application Support/LaunchBar/CustomShortcuts.plist
+Library/Application Support/LaunchBar/Snippets
+Library/Application Support/lazygit/config.yml
+Library/Application Support/LightTable/plugins
+Library/Application Support/LightTable/settings
+Library/Application Support/LightTable/User
+Library/Application Support/Linotype/FontExplorer X
+Library/Application Support/Little Snitch/configuration.user.xpl
+Library/Application Support/Little Snitch/configuration.xpl
+Library/Application Support/Little Snitch/configuration4.user.xpl
+Library/Application Support/Little Snitch/rules.usr.xpl
+Library/Application Support/Loopback/Devices.plist
+Library/Application Support/MacDive
+Library/Application Support/MacDown/Styles
+Library/Application Support/MacDown/Themes
+Library/Application Support/Mailmate/com.freron.MailMate.pid
+Library/Application Support/Mailmate/Identities.plist
+Library/Application Support/Mailmate/Mailboxes.plist
+Library/Application Support/Mailmate/Resources/KeyBindings
+Library/Application Support/Mailmate/Signatures.plist
+Library/Application Support/Mailmate/Sources.plist
+Library/Application Support/Mailmate/Submission.plist
+Library/Application Support/Mailmate/Tags.plist
+Library/Application Support/Many Tricks
+Library/Application Support/Marked 2
+Library/Application Support/Mendeley Desktop
+Library/Application Support/mkcert
+Library/Application Support/MMFApplications
+Library/Application Support/Mou
+Library/Application Support/MTMR/items.json
+Library/Application Support/Mumu
+Library/Application Support/MySQL/Workbench/connections.xml
+Library/Application Support/MySQL/Workbench/server_instances.xml
+Library/Application Support/MySQL/Workbench/wb_options.xml
+Library/Application Support/Name Mangler
+Library/Application Support/Navicat for MySQL
+Library/Application Support/Navicat Premium
+Library/Application Support/Notational Velocity
+Library/Application Support/nushell/config.nu
+Library/Application Support/nushell/env.nu
+Library/Application Support/obs-studio/basic
+Library/Application Support/obs-studio/global.ini
+Library/Application Support/OmniFocus/Plug-Ins
+Library/Application Support/OmniFocus/Themes
+Library/Application Support/OpenEmu
+Library/Application Support/org.videolan.vlc
+Library/Application Support/org.yanex.marta/conf.json
+Library/Application Support/org.yanex.marta/conf.marco
+Library/Application Support/org.yanex.marta/favorites.json
+Library/Application Support/org.yanex.marta/favorites.marco
+Library/Application Support/Path Finder
+Library/Application Support/PhpStorm2016.1
+Library/Application Support/PhpStorm2016.2
+Library/Application Support/PhpStorm2016.3
+Library/Application Support/PhpStorm2017.1
+Library/Application Support/PhpStorm2017.2
+Library/Application Support/PhpStorm2017.3
+Library/Application Support/PhpStorm2018.1
+Library/Application Support/PhpStorm2018.2
+Library/Application Support/PhpStorm2018.3
+Library/Application Support/PhpStorm2019.1
+Library/Application Support/PhpStorm2019.2
+Library/Application Support/PhpStorm2019.3
+Library/Application Support/PhpStorm2019.4
+Library/Application Support/picgo/data.json
+Library/Application Support/pip/pip.conf
+Library/Application Support/PokerStars
+Library/Application Support/PokerStarsEU
+Library/Application Support/PopClip/Extensions
+Library/Application Support/Popcorn-Time/data/bookmarks.db
+Library/Application Support/Popcorn-Time/data/movies.db
+Library/Application Support/Popcorn-Time/data/settings.db
+Library/Application Support/Popcorn-Time/data/shows.db
+Library/Application Support/Popcorn-Time/data/watched.db
+Library/Application Support/PremiumSoft CyberTech
+Library/Application Support/PyCharm
+Library/Application Support/PyCharm2016.1
+Library/Application Support/PyCharm2016.2
+Library/Application Support/PyCharm2019.2
+Library/Application Support/PyCharm2019.3
+Library/Application Support/PyCharm40
+Library/Application Support/PyCharm50
+Library/Application Support/pypoetry/config.toml
+Library/Application Support/Querious
+Library/Application Support/Quicksilver
+Library/Application Support/Rocket
+Library/Application Support/Royal TSX/License.xml
+Library/Application Support/Royal TSX/UserPreferences.config
+Library/Application Support/RubyMine2016.1
+Library/Application Support/RubyMine2016.2
+Library/Application Support/RubyMine2016.3
+Library/Application Support/RubyMine2017.3
+Library/Application Support/RubyMine2018.1
+Library/Application Support/RubyMine40
+Library/Application Support/RubyMine50
+Library/Application Support/RubyMine60
+Library/Application Support/RubyMine70
+Library/Application Support/RubyMine80
+Library/Application Support/SABnzbd/admin/rss_data.sab
+Library/Application Support/SABnzbd/sabnzbd.ini
+Library/Application Support/Scrivener
+Library/Application Support/Secure Pipes
+Library/Application Support/Sequel Pro/Bundles
+Library/Application Support/Sequel Pro/Data
+Library/Application Support/Sequel Pro/Themes
+Library/Application Support/Shimo/ShimoProfiles.xml
+Library/Application Support/SizeUp/SizeUp.sizeuplicense
+Library/Application Support/Sizzy/config.json
+Library/Application Support/Sizzy/window-state.json
+Library/Application Support/Slic3r
+Library/Application Support/Soulver
+Library/Application Support/Soulver 3
+Library/Application Support/SourceTree/browser.plist
+Library/Application Support/SourceTree/hgrc_sourcetree
+Library/Application Support/SourceTree/hostingservices.plist
+Library/Application Support/SourceTree/sourcetree.license
+Library/Application Support/SpamSieve
+Library/Application Support/Spark
+Library/Application Support/Spectacle
+Library/Application Support/Startupizer
+Library/Application Support/Stata
+Library/Application Support/Stay
+Library/Application Support/Subler
+Library/Application Support/Sublime Merge/Packages/User
+Library/Application Support/Sublime Text 2/Packages/User
+Library/Application Support/Sublime Text 3/Packages/User
+Library/Application Support/Sublime Text/Packages/User
+Library/Application Support/SuperDuper!
+Library/Application Support/Swinsian/Library.sqlite
+Library/Application Support/Swinsian/License.swinsianlicense
+Library/Application Support/TaskPaper
+Library/Application Support/TextExpander/Settings.textexpander
+Library/Application Support/TextMate/Bundles
+Library/Application Support/TextMate/Managed/Bundles
+Library/Application Support/TextMate/PlugIns
+Library/Application Support/TextMate/Pristine Copy
+Library/Application Support/Textual IRC
+Library/Application Support/The Omni Group/OmniGraffle
+Library/Application Support/Tower
+Library/Application Support/Transmission/blocklists
+Library/Application Support/Transmit/Favorites
+Library/Application Support/Transmit/Metadata
+Library/Application Support/TripMode
+Library/Application Support/Tunnelblick/Configurations
+Library/Application Support/Twitterrific
+Library/Application Support/Typinator
+Library/Application Support/Übersicht/widgets
+Library/Application Support/VanDyke/SecureCRT/Config
+Library/Application Support/Versions/License
+Library/Application Support/Viscosity/OpenVPN
+Library/Application Support/VSCodium/User/keybindings.json
+Library/Application Support/VSCodium/User/settings.json
+Library/Application Support/VSCodium/User/snippets
+Library/Application Support/WebIde100
+Library/Application Support/WebIde60
+Library/Application Support/WebIde70
+Library/Application Support/WebIde80
+Library/Application Support/WebIde90
+Library/Application Support/WebIde95
+Library/Application Support/WebStorm
+Library/Application Support/WebStorm10
+Library/Application Support/WebStorm11
+Library/Application Support/WebStorm2016.1
+Library/Application Support/WebStorm2016.2
+Library/Application Support/WebStorm2016.3
+Library/Application Support/WebStorm2017.1
+Library/Application Support/WebStorm2017.2
+Library/Application Support/WebStorm2017.3
+Library/Application Support/WebStorm2018.1
+Library/Application Support/WebStorm2018.2
+Library/Application Support/WebStorm2018.3
+Library/Application Support/WebStorm2019.1
+Library/Application Support/WebStorm2019.2
+Library/Application Support/WebStorm2019.3
+Library/Application Support/WebStorm2019.4
+Library/Application Support/WebStorm8
+Library/Application Support/WebStorm9
+Library/Application Support/WhatsApp/Preferences
+Library/Application Support/WhatsApp/settings.json
+Library/Application Support/Windsurf/User/keybindings.json
+Library/Application Support/Windsurf/User/settings.json
+Library/Application Support/Windsurf/User/snippets
+Library/Application Support/xbar/plugins
+Library/Application Support/xbar/xbar.config.json
+Library/Application Support/XLD
+Library/Application Support/Yummy FTP/Bookmarks
+Library/Application Support/Yummy FTP/DefaultBookmark.bkmk
+Library/Application Support/zoxide
+Library/ColorSync/Profiles
+Library/Containers/Affinity Designer/Data/Library/Application Support/user
+Library/Containers/Affinity Photo/Data/Library/Application Support/user
+Library/Containers/Affinity Publisher/Data/Library/Application Support/user
+Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.irc.textual.plist
+Library/Containers/com.flexibits.fantastical2.mac/Container.plist
+Library/Containers/com.IdeaPunch.ColorSlurp/Data/Library/Application Support/default.realm
+Library/Containers/com.microsoft.rdc.macos/Data/Library/Preferences/com.microsoft.rdc.macos.plist
+Library/Containers/fr.handbrake.HandBrake/Data/Library/Application Support/HandBrake/UserPresets.json
+Library/Containers/it.bloop.airmail2/Container.plist
+Library/Containers/uk.co.menial.Base/Data/Library/Application Support/Base/
+Library/Containers/uk.co.menial.Base/Data/Library/Preferences/uk.co.menial.Base.plist
+Library/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.runtime/.settings
+Library/DBeaverData/workspace6/General
+Library/Developer/Xcode/Templates
+Library/Developer/Xcode/UserData/CodeSnippets
+Library/Developer/Xcode/UserData/Debugger
+Library/Developer/Xcode/UserData/FontAndColorThemes
+Library/Developer/Xcode/UserData/KeyBindings
+Library/Developer/Xcode/UserData/SearchScopes.xcsclist
+Library/Developer/Xcode/UserData/xcdebugger
+Library/Gas Mask
+Library/Group Containers/6Z7QW53WB6.com.dejal.timeout
+Library/iTunes/Scripts
+Library/KeyBindings/DefaultKeyBinding.dict
+Library/MonoDevelop-Unity-5.0/KeyBindings/Custom.mac-kb.xml
+Library/MonoDevelop-Unity-5.0/Policies/Default.mdpolicy.xml
+Library/Music/Scripts
+Library/PDF Services
+Library/Preferences/.com.storyist.storyist.plist
+Library/Preferences/Adobe Illustrator 17 Settings
+Library/Preferences/Adobe Illustrator 18 Settings
+Library/Preferences/Adobe Illustrator 19 Settings
+Library/Preferences/Adobe Illustrator 20 Settings
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Adobe Illustrator Prefs
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Last Used Artboard Export Settings
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Last Used Asset Export Settings
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Modified Workspaces
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Perspective grid Presets
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Print Presets
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Tools/Tools Panel Presets
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Transparency flattener presets
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/VariableWidthProfiles
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Vectorizing Presets
+Library/Preferences/Adobe Illustrator 23 Settings/en_US/Workspaces
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Adobe Illustrator Prefs
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Last Used Artboard Export Settings
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Last Used Asset Export Settings
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Modified Workspaces
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Perspective grid Presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Print Presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Tools/Tools Panel Presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Transparency flattener presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/VariableWidthProfiles
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Vectorizing Presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Workspaces
+Library/Preferences/Adobe Photoshop CC 2013 Settings
+Library/Preferences/Adobe Photoshop CC 2014 Settings
+Library/Preferences/Adobe Photoshop CC 2015 Settings
+Library/Preferences/Adobe Photoshop CC 2015.5 Settings
+Library/Preferences/Adobe Photoshop CC 2019 Settings
+Library/Preferences/aerc
+Library/Preferences/AndroidStudio1.3
+Library/Preferences/app.soulver.mac.plist
+Library/Preferences/appCode20
+Library/Preferences/appCode30
+Library/Preferences/appCode31
+Library/Preferences/AppCode32
+Library/Preferences/at.eggerapps.Postico.plist
+Library/Preferences/at.obdev.LaunchBar.plist
+Library/Preferences/at.obdev.littlesnitch.networkmonitor.plist
+Library/Preferences/at.obdev.LittleSnitchNetworkMonitor.plist
+Library/Preferences/calibre
+Library/Preferences/ch.sudo.cyberduck.plist
+Library/Preferences/CLion2016.2
+Library/Preferences/co.gitup.mac.plist
+Library/Preferences/co.highlyopinionated.swish.plist
+Library/Preferences/com.3t.Robomongo.plist
+Library/Preferences/com.acqualia.soulver.plist
+Library/Preferences/com.adiumX.adiumX.plist
+Library/Preferences/com.adobe.illustrator.plist
+Library/Preferences/com.adobe.Lightroom4.plist
+Library/Preferences/com.adobe.Lightroom5.plist
+Library/Preferences/com.adobe.Lightroom6.plist
+Library/Preferences/com.adobe.LightroomClassicCC7.plist
+Library/Preferences/com.adobe.Photoshop.plist
+Library/Preferences/com.agilebits.onepassword4.plist
+Library/Preferences/com.amethyst.Amethyst.plist
+Library/Preferences/com.aone.keka.plist
+Library/Preferences/com.apple.dt.Xcode.plist
+Library/Preferences/com.apple.iChat.AIM.plist
+Library/Preferences/com.apple.iChat.Jabber.plist
+Library/Preferences/com.apple.iChat.StatusMessages.plist
+Library/Preferences/com.apple.iChat.Yahoo.plist
+Library/Preferences/com.apple.mail.plist
+Library/Preferences/com.apple.Music.eq.plist
+Library/Preferences/com.apple.Music.plist
+Library/Preferences/com.apple.symbolichotkeys.plist
+Library/Preferences/com.apple.Terminal.plist
+Library/Preferences/com.aptonic.Dropzone3.plist
+Library/Preferences/com.araeliumgroup.querious.plist
+Library/Preferences/com.ashchan.GmailNotifr.plist
+Library/Preferences/com.axosoft.gitkraken.plist
+Library/Preferences/com.bahoom.HyperSwitch.plist
+Library/Preferences/com.beatport.BeatportPro.plist
+Library/Preferences/com.binaryage.TotalSpaces2.plist
+Library/Preferences/com.binarynights.ForkLift-3.plist
+Library/Preferences/com.binarynights.ForkLift2.plist
+Library/Preferences/com.bitcavehq.Airflow.plist
+Library/Preferences/com.bitgapp.eqMac2.plist
+Library/Preferences/com.bjango.istatmenus.plist
+Library/Preferences/com.bjango.istatmenus.status.plist
+Library/Preferences/com.bjango.istatmenus5.extras.plist
+Library/Preferences/com.bjango.istatmenus6.extras.plist
+Library/Preferences/com.blackpixel.kaleidoscope.plist
+Library/Preferences/com.blackpixel.versions.plist
+Library/Preferences/com.blacktree.Quicksilver.plist
+Library/Preferences/com.brassmonkery.Multitouch.plist
+Library/Preferences/com.brettterpstra.marked2.plist
+Library/Preferences/com.bytieful.Gitfox-retail.plist
+Library/Preferences/com.bytieful.Gitfox-setapp.plist
+Library/Preferences/com.bytieful.Gitfox.plist
+Library/Preferences/com.c-command.SpamSieve.plist
+Library/Preferences/com.chungwasoft.Shimo.plist
+Library/Preferences/com.clipy-app.Clipy.plist
+Library/Preferences/com.ClueTrust.Cartographica.plist
+Library/Preferences/com.cocoatech.PathFinder.plist
+Library/Preferences/com.codeux.irc.textual.plist
+Library/Preferences/com.colliderli.iina.plist
+Library/Preferences/com.colorschemer.studio2.plist
+Library/Preferences/com.contextsformac.Contexts.plist
+Library/Preferences/com.cordlessdog.Stay.plist
+Library/Preferences/com.coteditor.CotEditor.plist
+Library/Preferences/com.crowdcafe.windowmagnet.plist
+Library/Preferences/com.cyberic.SmoothMouse.plist
+Library/Preferences/com.daisydiskapp.DaisyDiskStandAlone.plist
+Library/Preferences/com.DanPristupov.Fork.plist
+Library/Preferences/com.divisiblebyzero.Spectacle.plist
+Library/Preferences/com.droplr.droplr-mac.plist
+Library/Preferences/com.dustinrue.ControlPlane.plist
+Library/Preferences/com.ecamm.PhoneView.plist
+Library/Preferences/com.feedsapp.Feeds.plist
+Library/Preferences/com.flexibits.fantastical.plist
+Library/Preferences/com.florentpillet.NSLogger.plist
+Library/Preferences/com.fournova.Tower.plist
+Library/Preferences/com.fournova.Tower2.plist
+Library/Preferences/com.fournova.Tower3.plist
+Library/Preferences/com.freron.MailMate.plist
+Library/Preferences/com.futureproof.awareness.plist
+Library/Preferences/com.getcleanshot.app-setapp.plist
+Library/Preferences/com.getdoxie.doxie.plist
+Library/Preferences/com.getpixelsnap.app.plist
+Library/Preferences/com.github.atom.plist
+Library/Preferences/com.googlecode.iterm2.plist
+Library/Preferences/com.guidedways.TodoMac.plist
+Library/Preferences/com.hegenberg.BetterSnapTool.plist
+Library/Preferences/com.hegenberg.BetterTouchTool.plist
+Library/Preferences/com.heliumfoot.MyWiAgent.plist
+Library/Preferences/com.hex-ray.hexels.plist
+Library/Preferences/com.hogbaysoftware.TaskPaper.mac.plist
+Library/Preferences/com.IdeaPunch.ColorSlurp.plist
+Library/Preferences/com.intelliscapesolutions.caffeine.plist
+Library/Preferences/com.irradiatedsoftware.SizeUp.plist
+Library/Preferences/com.jetbrains.gogland-EAP.plist
+Library/Preferences/com.jetbrains.PhpStorm.plist
+Library/Preferences/com.jitouch.Jitouch.plist
+Library/Preferences/com.kapeli.dash.plist
+Library/Preferences/com.kapeli.dashdoc.plist
+Library/Preferences/com.knollsoft.Rectangle.plist
+Library/Preferences/com.kodowa.LightTable.plist
+Library/Preferences/com.lagente.scenario.plist
+Library/Preferences/com.lemonmojo.RoyalTSX.App.plist
+Library/Preferences/com.lightheadsw.Caffeine.plist
+Library/Preferences/com.linebreak.CloudAppMacOSX.plist
+Library/Preferences/com.literatureandlatte.scrivener2.plist
+Library/Preferences/com.LittleFin.DealAlert.plist
+Library/Preferences/com.logitech.manager.setting.ffff.plist
+Library/Preferences/com.lwouis.alt-tab-macos.plist
+Library/Preferences/com.macility.typinator2.plist
+Library/Preferences/com.macromates.textmate.latex_config.plist
+Library/Preferences/com.mailplaneapp.Mailplane.plist
+Library/Preferences/com.mailplaneapp.Mailplane3.plist
+Library/Preferences/com.manytricks.Keymo.plist
+Library/Preferences/com.manytricks.Moom.plist
+Library/Preferences/com.manytricks.NameMangler.plist
+Library/Preferences/com.manytricks.Witch.plist
+Library/Preferences/com.marcoarment.quitter.plist
+Library/Preferences/com.marketcircle.BillingsProServerAdmin.plist
+Library/Preferences/com.matryer.BitBar.plist
+Library/Preferences/com.mediaatelier.GrandTotal3.plist
+Library/Preferences/com.metakine.handsoff.plist
+Library/Preferences/com.metakine.magic-launch.agent.plist
+Library/Preferences/com.mintsoftware.MacDive2.plist
+Library/Preferences/com.mizage.direct.Divvy.plist
+Library/Preferences/com.mizage.Divvy.plist
+Library/Preferences/com.mortennn.Dozer.plist
+Library/Preferences/com.mouapp.Mou.LSSharedFileList.plist
+Library/Preferences/com.mouapp.Mou.plist
+Library/Preferences/com.mowglii.ItsycalApp.plist
+Library/Preferences/com.naotaka.ClipMenu.plist
+Library/Preferences/com.noodlesoft.Hazel.plist
+Library/Preferences/com.obsproject.obs-studio.plist
+Library/Preferences/com.oleganza.gitbox.plist
+Library/Preferences/com.omnigroup.OmniFocus.plist
+Library/Preferences/com.oracle.mysql.workbench.plist
+Library/Preferences/com.panic.Coda2.plist
+Library/Preferences/com.panic.Nova.plist
+Library/Preferences/com.panic.Transmit.plist
+Library/Preferences/com.pigigaldi.pock.plist
+Library/Preferences/com.pilotmoon.popclip.plist
+Library/Preferences/com.pilotmoon.scroll-reverser.plist
+Library/Preferences/com.plasq.skitch.history
+Library/Preferences/com.plasq.skitch.plist
+Library/Preferences/com.pokerstars.eu.user.ini
+Library/Preferences/com.pokerstars.PokerStars.plist
+Library/Preferences/com.pokerstars.PokerStarsEU.plist
+Library/Preferences/com.pokerstars.user.ini
+Library/Preferences/com.prect.Navicat.plist
+Library/Preferences/com.prect.NavicatPremium.plist
+Library/Preferences/com.prect.NavicatPremiumEssentials.plist
+Library/Preferences/com.proxyman.NSProxy-setapp.plist
+Library/Preferences/com.proxyman.NSProxy.plist
+Library/Preferences/com.ragingmenace.MenuMeters.plist
+Library/Preferences/com.red-sweater.fastscripts.plist
+Library/Preferences/com.rogueamoeba.Loopback.plist
+Library/Preferences/com.ScooterSoftware.BeyondCompare.plist
+Library/Preferences/com.screenhero.screenhero.plist
+Library/Preferences/com.sempliva.Tiles.plist
+Library/Preferences/com.sequelpro.SequelPro.plist
+Library/Preferences/com.shauninman.Day-O.plist
+Library/Preferences/com.shiftoption.rubitrack5.pro.plist
+Library/Preferences/com.smileonmymac.textexpander.plist
+Library/Preferences/com.soggywaffles.Paintbrush.plist
+Library/Preferences/com.splice.Splice.plist
+Library/Preferences/com.spotify.client.plist
+Library/Preferences/com.stata.stata12.plist
+Library/Preferences/com.stata.stata13.plist
+Library/Preferences/com.stclairsoft.DefaultFolderX.favorites.plist
+Library/Preferences/com.stclairsoft.DefaultFolderX.plist
+Library/Preferences/com.stclairsoft.DefaultFolderX.settings.plist
+Library/Preferences/com.storyist.storyist.plist
+Library/Preferences/com.surteesstudios.Bartender-setapp.plist
+Library/Preferences/com.surteesstudios.Bartender.plist
+Library/Preferences/com.swinsian.Swinsian.plist
+Library/Preferences/com.swinsian.SwinsianDesktopWindow.plist
+Library/Preferences/com.tapbots.PastebotSync.plist
+Library/Preferences/com.tapbots.PastebotSync.prefPane.plist
+Library/Preferences/com.tapbots.PastebotSync.stats.plist
+Library/Preferences/com.tinyapp.TablePlus.plist
+Library/Preferences/com.trankynam.XtraFinder.plist
+Library/Preferences/com.treasurebox.gear.plist
+Library/Preferences/com.treasurebox.magickeys.plist
+Library/Preferences/com.uglyapps.HocusFocus.plist
+Library/Preferences/com.uglyapps.Houdini.plist
+Library/Preferences/com.uranusjr.macdown.plist
+Library/Preferences/com.vandyke.SecureCRT.plist
+Library/Preferences/com.viscosityvpn.Viscosity.plist
+Library/Preferences/com.vladalexa.MagicPrefs.MagicPrefsPlugins.plist
+Library/Preferences/com.vladalexa.MagicPrefs.plist
+Library/Preferences/com.xk72.charles.config
+Library/Preferences/com.yukkurigames.Enjoyable.plist
+Library/Preferences/com.yummysoftware.yummy-ftp.plist
+Library/Preferences/com.zipzapmac.Go2Shell.plist
+Library/Preferences/cx.c3.Xee3.plist
+Library/Preferences/DataGrip2017.3
+Library/Preferences/DataGrip2018.1
+Library/Preferences/DataGrip2018.2
+Library/Preferences/DataGrip2018.3
+Library/Preferences/DataGrip2019.1
+Library/Preferences/DataGrip2019.2
+Library/Preferences/de.bahoom.HyperDock.plist
+Library/Preferences/de.bahoom.HyperDock.prefpane.plist
+Library/Preferences/de.simonmeusel.MuteSpotifyAds.plist
+Library/Preferences/edu.ucsd.cs.mmccrack.bibdesk.plist
+Library/Preferences/ee.clockwise.gmask.plist
+Library/Preferences/espanso
+Library/Preferences/eu.exelban.Stats.plist
+Library/Preferences/fr.chachatelier.pierre.LaTeXiT.plist
+Library/Preferences/Gogland1.0
+Library/Preferences/GoLand2017.3
+Library/Preferences/GoLand2018.1
+Library/Preferences/GoLand2018.2
+Library/Preferences/GoLand2018.3
+Library/Preferences/GoLand2019.2
+Library/Preferences/IdeaIC2016.1
+Library/Preferences/IdeaIC2016.2
+Library/Preferences/IdeaIC2016.3
+Library/Preferences/IdeaIC2017.1
+Library/Preferences/IdeaIC2017.2
+Library/Preferences/IdeaIC2017.3
+Library/Preferences/IdeaIC2018.2
+Library/Preferences/IdeaIC2018.3
+Library/Preferences/IdeaIC2019.1
+Library/Preferences/info.colloquy.plist
+Library/Preferences/info.marcel-dierkes.KeepingYouAwake.plist
+Library/Preferences/IntelliJIdea12
+Library/Preferences/IntelliJIdea13
+Library/Preferences/IntelliJIdea14
+Library/Preferences/IntelliJIdea15
+Library/Preferences/IntelliJIdea2016.1
+Library/Preferences/IntelliJIdea2016.2
+Library/Preferences/IntelliJIdea2016.3
+Library/Preferences/IntelliJIdea2017.1
+Library/Preferences/IntelliJIdea2017.2
+Library/Preferences/IntelliJIdea2017.3
+Library/Preferences/IntelliJIdea2018.1
+Library/Preferences/IntelliJIdea2018.2
+Library/Preferences/IntelliJIdea2018.3
+Library/Preferences/IntelliJIdea2019.1
+Library/Preferences/IntelliJIdea2019.2
+Library/Preferences/IntelliJIdea2019.3
+Library/Preferences/io.brackets.appshell.plist
+Library/Preferences/io.citruspi.Spotify-Notifications.plist
+Library/Preferences/io.natethompson.Shifty.plist
+Library/Preferences/jp.tmkk.XLD.plist
+Library/Preferences/MonoDevelop-Unity-5.0/MonoDevelopProperties.xml
+Library/Preferences/name.guoc.SpaceLauncher.plist
+Library/Preferences/net.edgeservices.connections.plist
+Library/Preferences/net.edgeservices.Secure-Pipes.plist
+Library/Preferences/net.edgeservices.sp-config.plist
+Library/Preferences/net.elasticthreads.nv.plist
+Library/Preferences/net.freemacsoft.AppCleaner-SmartDelete.plist
+Library/Preferences/net.freemacsoft.AppCleaner.plist
+Library/Preferences/net.limechat.LimeChat-AppStore.plist
+Library/Preferences/net.matthewpalmer.Rocket.plist
+Library/Preferences/net.poedit.Poedit.cfg
+Library/Preferences/net.poedit.Poedit.plist
+Library/Preferences/net.sf.Jumpcut.plist
+Library/Preferences/net.sourceforge.chicken.plist
+Library/Preferences/net.sourceforge.skim-app.skim.plist
+Library/Preferences/net.washboardabs.boxer.plist
+Library/Preferences/org.clementine-player.Clementine.plist
+Library/Preferences/org.dolphin-emu.dolphin.plist
+Library/Preferences/org.eyebeam.SelfControl.plist
+Library/Preferences/org.herf.Flux.plist
+Library/Preferences/org.keepassx.keepassx.plist
+Library/Preferences/org.keepassxc.keepassxc.plist
+Library/Preferences/org.m0k.transmission.plist
+Library/Preferences/org.niltsh.MPlayerX.plist
+Library/Preferences/org.openemu.OpenEmu.plist
+Library/Preferences/org.pqrs.Karabiner-AXNotifier.plist
+Library/Preferences/org.pqrs.Karabiner.multitouchextension.plist
+Library/Preferences/org.pqrs.Karabiner.plist
+Library/Preferences/org.pqrs.KeyRemap4MacBook.multitouchextension.plist
+Library/Preferences/org.pqrs.KeyRemap4MacBook.plist
+Library/Preferences/org.pqrs.PCKeyboardHack.plist
+Library/Preferences/org.pqrs.Seil.plist
+Library/Preferences/org.pqrs.ShowyEdge.plist
+Library/Preferences/org.R-project.R.plist
+Library/Preferences/org.rstudio.RStudio.plist
+Library/Preferences/org.sbooth.Max.plist
+Library/Preferences/org.shiftitapp.ShiftIt.plist
+Library/Preferences/org.tynsoe.geeklet.file.plist
+Library/Preferences/org.tynsoe.geeklet.image.plist
+Library/Preferences/org.tynsoe.geeklet.shell.plist
+Library/Preferences/org.tynsoe.geeklet.web.plist
+Library/Preferences/org.tynsoe.GeekTool.plist
+Library/Preferences/org.tynsoe.geektool3.plist
+Library/Preferences/org.videolan.vlc
+Library/Preferences/org.videolan.vlc.LSSharedFileList.plist
+Library/Preferences/org.videolan.vlc.plist
+Library/Preferences/org.vim.MacVim.LSSharedFileList.plist
+Library/Preferences/org.vim.MacVim.plist
+Library/Preferences/PhpStorm2016.1
+Library/Preferences/PhpStorm2016.2
+Library/Preferences/PhpStorm2016.3
+Library/Preferences/PhpStorm2017.1
+Library/Preferences/PhpStorm2017.2
+Library/Preferences/PhpStorm2017.3
+Library/Preferences/PhpStorm2018.1
+Library/Preferences/PhpStorm2018.2
+Library/Preferences/PhpStorm2018.3
+Library/Preferences/PhpStorm2019.1
+Library/Preferences/PhpStorm2019.2
+Library/Preferences/PhpStorm2019.3
+Library/Preferences/PhpStorm2019.4
+Library/Preferences/pl.maketheweb.cleanshotx.plist
+Library/Preferences/pl.maketheweb.pixelsnap2.plist
+Library/Preferences/PyCharm2016.1
+Library/Preferences/PyCharm2016.2
+Library/Preferences/PyCharm2019.2
+Library/Preferences/PyCharm2019.3
+Library/Preferences/PyCharm40
+Library/Preferences/PyCharm50
+Library/Preferences/pypoetry/config.toml
+Library/Preferences/qv2ray/plugin_settings
+Library/Preferences/qv2ray/Qv2ray.conf
+Library/Preferences/ru.keepcoder.Telegram.plist
+Library/Preferences/ru.yandex.punto.plist
+Library/Preferences/RubyMine2016.1
+Library/Preferences/RubyMine2016.2
+Library/Preferences/RubyMine2016.3
+Library/Preferences/RubyMine2017.3
+Library/Preferences/RubyMine2018.1
+Library/Preferences/RubyMine40
+Library/Preferences/RubyMine50
+Library/Preferences/RubyMine60
+Library/Preferences/RubyMine70
+Library/Preferences/RubyMine80
+Library/Preferences/SmartGit/smartgit.vmoptions
+Library/Preferences/Stata 13 Preferences
+Library/Preferences/tracesOf.Uebersicht.plist
+Library/Preferences/us.zoom.Transcode.plist
+Library/Preferences/us.zoom.xos.Hotkey.plist
+Library/Preferences/us.zoom.xos.plist
+Library/Preferences/us.zoom.ZoomAutoUpdater.plist
+Library/Preferences/Ventrilo
+Library/Preferences/VisualStudio/7.0/EditingLayout.xml
+Library/Preferences/VisualStudio/7.0/MonoDevelopProperties.xml
+Library/Preferences/VisualStudio/8.0/EditingLayout.xml
+Library/Preferences/VisualStudio/8.0/MonoDevelopProperties.xml
+Library/Preferences/WebIde100
+Library/Preferences/WebIde60
+Library/Preferences/WebIde70
+Library/Preferences/WebIde80
+Library/Preferences/WebIde90
+Library/Preferences/WebIde95
+Library/Preferences/WebStorm10
+Library/Preferences/WebStorm11
+Library/Preferences/WebStorm2016.1
+Library/Preferences/WebStorm2016.2
+Library/Preferences/WebStorm2016.3
+Library/Preferences/WebStorm2017.1
+Library/Preferences/WebStorm2017.2
+Library/Preferences/WebStorm2017.3
+Library/Preferences/WebStorm2018.1
+Library/Preferences/WebStorm2018.2
+Library/Preferences/WebStorm2018.3
+Library/Preferences/WebStorm2019.1
+Library/Preferences/WebStorm2019.2
+Library/Preferences/WebStorm2019.3
+Library/Preferences/WebStorm2019.4
+Library/Preferences/WebStorm8
+Library/Preferences/WebStorm9
+Library/Preferences/WhatsApp-Helper.plist
+Library/Preferences/WhatsApp.plist
+Library/Preferences/ws.agile.1Password.plist
+Library/Preferences/XamarinStudio-5.0
+Library/Preferences/ZoomChat.plist
+Library/Processing/preferences.txt
+Library/Quicklook
+Library/Rime/default.custom.yaml
+Library/Rime/default.yaml
+Library/Rime/installation.yaml
+Library/Rime/squirrel.custom.yaml
+Library/Rime/squirrel.yaml
+Library/Rime/symbols.yaml
+Library/Rime/user.yaml
+Library/Scenario
+Library/Scripts
+Library/Speech/Speakable Items
+Library/VisualStudio
+Library/Workflows
