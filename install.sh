@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -euo pipefail
 
 PLIST_TEMPLATE="retain.plist.template"
 PLIST_TARGET="$HOME/Library/LaunchAgents/dev.brc-dd.retain.plist"
