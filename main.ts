@@ -1,5 +1,3 @@
-#!/usr/bin/env -S deno run -A
-
 import $ from 'jsr:@david/dax'
 import { expandGlob } from 'jsr:@std/fs'
 
