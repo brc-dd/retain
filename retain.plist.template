@@ -20,8 +20,8 @@
     </dict>
 
     <key>StandardOutPath</key>
-    <string>/tmp/retain-backup.log</string>
+    <string>/tmp/retain.log</string>
     <key>StandardErrorPath</key>
-    <string>/tmp/retain-backup.err</string>
+    <string>/tmp/retain.err</string>
   </dict>
 </plist>
