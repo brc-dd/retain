@@ -4,6 +4,7 @@
 **/.bun
 **/.cache
 **/.cargo
+**/.codex
 **/.config/configstore
 **/.config/github-copilot
 **/.degit
@@ -36,6 +37,7 @@
 **/.vscode/extensions
 **/.yarn
 **/.zcompcache
+**/.zcompdump
 **/*.bak
 **/cache
 **/dist
