@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-pnpx degit lra/mackup/mackup/applications applications --force
+deno run -A npm:degit lra/mackup/mackup/applications applications --force
 
 OUTPUT_FILE="include.txt"
 : >"$OUTPUT_FILE"
