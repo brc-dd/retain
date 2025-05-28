@@ -14,7 +14,8 @@ An opinionated backup script for macOS to backup your data to iCloud Drive.
 - macOS
 - [Deno](https://deno.land/)
 - [Homebrew](https://brew.sh/) (for `brew bundle`)
-- [mas](https://github.com/mas-cli/mas) (optional, but recommended if you want to include App Store apps in Brewfile)
+- [mas](https://github.com/mas-cli/mas) (optional, but recommended if you want to include App Store
+  apps in Brewfile)
 
 ## Installation
 
@@ -26,7 +27,8 @@ cd ~/.retain
 ./install.sh
 ```
 
-This will generate a LaunchAgent plist at `~/Library/LaunchAgents/dev.brc-dd.retain.plist` and load it to schedule automatic backups.
+This will generate a LaunchAgent plist at `~/Library/LaunchAgents/dev.brc-dd.retain.plist` and load
+it to schedule automatic backups.
 
 ## Usage
 
@@ -35,7 +37,8 @@ This will generate a LaunchAgent plist at `~/Library/LaunchAgents/dev.brc-dd.ret
   cd ~/.retain
   deno run -A main.ts
   ```
-- **Customize backup contents**: edit `include.txt` and `exclude.txt` to adjust which files are included or skipped.
+- **Customize backup contents**: edit `include.txt` and `exclude.txt` to adjust which files are
+  included or skipped.
 - **Backup output**: the archive `backup.zip` is placed in your iCloud Drive:
   `~/Library/Mobile Documents/com~apple~CloudDocs/backup.zip`
 
@@ -50,7 +53,8 @@ cd ~/.retain
 
 ## Development
 
-- Use `dump.sh` to regenerate `include.txt` from [mackup/applications](https://github.com/lra/mackup/tree/master/mackup/applications).
+- Use `dump.sh` to regenerate `include.txt` from
+  [mackup/applications](https://github.com/lra/mackup/tree/master/mackup/applications).
 - The LaunchAgent template is in `retain.plist.template`.
 
 ## License

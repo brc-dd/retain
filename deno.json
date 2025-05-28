@@ -8,7 +8,7 @@
   },
   "fmt": {
     "lineWidth": 100,
-    "proseWrap": "preserve",
+    "proseWrap": "always",
     "semiColons": false,
     "singleQuote": true
   }
