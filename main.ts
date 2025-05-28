@@ -21,4 +21,4 @@ await Deno.writeTextFile('backup.txt', list.join('\n'))
 
 await $`cd ~; rm -f .retain/backup.zip; zip -r .retain/backup.zip -@ < .retain/backup.txt`
   .noThrow(12, 18)
-await $`mv -f ~/.retain/backup.zip ~/Library/Mobile\\ Documents/com~apple~CloudDocs/backup.zip`
+await $`mv ~/.retain/backup.zip ~/Library/Mobile\\ Documents/com~apple~CloudDocs/backup.zip`
