@@ -36,7 +36,7 @@ This will generate a LaunchAgent plist at `~/Library/LaunchAgents/dev.brc-dd.ret
   deno run -A main.ts
   ```
 - **Customize backup contents**: edit `include.txt` and `exclude.txt` to adjust which files are included or skipped.
-- **Backup output**: the archive `backup.zip` is placed in:\
+- **Backup output**: the archive `backup.zip` is placed in your iCloud Drive:
   `~/Library/Mobile Documents/com~apple~CloudDocs/backup.zip`
 
 ## Uninstallation
