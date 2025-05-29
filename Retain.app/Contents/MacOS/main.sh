@@ -71,7 +71,7 @@ backup_zip="$data_dir/backup.zip"
 rm -f "$backup_zip"
 
 zip_code=0
-zip -r "$backup_zip" -@ <"$backup_list" || zip_code=$?
+zip -rq "$backup_zip" -@ <"$backup_list" || zip_code=$?
 
 if [[ $zip_code -ne 0 && $zip_code -ne 18 ]]; then
   echo "Error: zip failed with exit code $zip_code" >&2
