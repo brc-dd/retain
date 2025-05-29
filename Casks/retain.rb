@@ -1,5 +1,5 @@
 cask "retain" do
-  version "20250529134146"
+  version "20250529134411"
   sha256 "d970c92e6ba6c55968825514703fbcd411146edd8d704c6f5c81ac8a25bc9365"
 
   url "https://raw.githubusercontent.com/brc-dd/retain/refs/heads/main/Retain-d970c92e.zip"
@@ -49,7 +49,7 @@ cask "retain" do
   end
 
   uninstall launchctl: "dev.brc-dd.retain",
-            quit:      "dev.brc-dd.retain",
+            quit:      "dev.brc-dd.retain"
 
   zap trash: [
     "~/Library/Application Support/Retain",
