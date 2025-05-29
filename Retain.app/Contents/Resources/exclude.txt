@@ -23,7 +23,6 @@
 **/.npminstall_tarball
 **/.nuxt
 **/.nvm
-**/.retain
 **/.rustup
 **/.ScreamingFrogSEOSpider
 **/.semgrep

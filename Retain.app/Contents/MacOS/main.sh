@@ -24,12 +24,14 @@ mkdir -p "$icloud_dir"
 
 read_file() {
   local file=$1
-  local -n arr=$2
+  local arr_name=$2
   if [[ -f "$file" ]]; then
     while IFS= read -r line || [[ -n "$line" ]]; do
       trimmed="${line#"${line%%[![:space:]]*}"}"
       trimmed="${trimmed%"${trimmed##*[![:space:]]}"}"
-      [[ -n "$trimmed" ]] && arr+=("$trimmed")
+      if [[ -n "$trimmed" ]]; then
+        eval "$arr_name+=(\"$trimmed\")"
+      fi
     done <"$file"
   fi
 }
