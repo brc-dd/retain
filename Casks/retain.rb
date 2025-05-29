@@ -1,8 +1,8 @@
 cask "retain" do
-  version "20250529111631"
-  sha256 "35d5c9db4cedd5b1d60789c3918e08fb2bdf222b8b7f75a8dfe40b93a98c423a"
+  version "20250529113629"
+  sha256 "d7d283e547bfdb762c6ba683699df43b5628649f8524b11493cb1c24a4798dfc"
 
-  url "https://raw.githubusercontent.com/brc-dd/retain/refs/heads/main/Retain-20250529111631.zip",
+  url "https://raw.githubusercontent.com/brc-dd/retain/refs/heads/main/Retain-20250529113629.zip"
   name "Retain"
   desc "Automated nightly iCloud-Drive backup"
   homepage "https://github.com/brc-dd/retain"
