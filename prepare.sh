@@ -45,8 +45,7 @@ mv "$OUTPUT_FILE.tmp" "$OUTPUT_FILE"
 # Prepare the cask
 rm -f Retain-*.zip
 
-git add Retain.app
-git archive --format=zip --output=Retain.zip HEAD Retain.app
+./compress.sh Retain.app Retain.zip
 zip_hash=$(shasum -a 256 "Retain.zip" | awk '{print $1}')
 final_path="Retain-${zip_hash:0:8}.zip"
 mv "Retain.zip" "$final_path"
