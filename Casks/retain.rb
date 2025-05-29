@@ -8,6 +8,7 @@ cask "retain" do
   homepage "https://github.com/brc-dd/retain"
 
   depends_on formula: "fd"
+  depends_on formula: "mas"
 
   app "Retain.app"
 

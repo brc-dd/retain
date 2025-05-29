@@ -12,10 +12,7 @@ An opinionated backup script for macOS to backup your data to iCloud Drive.
 ## Requirements
 
 - macOS
-- [fd](https://github.com/sharkdp/fd)
-- [Homebrew](https://brew.sh/) (for `brew bundle`)
-- [mas](https://github.com/mas-cli/mas) (optional, but recommended if you want to include App Store
-  apps in Brewfile)
+- [Homebrew](https://brew.sh/)
 
 ## Installation
 
