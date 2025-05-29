@@ -6,7 +6,7 @@ set -euo pipefail
 pnpx degit lra/mackup/mackup/applications applications --force # hangs on npx 11
 
 # Output file
-OUTPUT_FILE="include.txt"
+OUTPUT_FILE="Retain.app/Contents/Resources/include.txt"
 : >"$OUTPUT_FILE"
 
 # Parse each config file
@@ -41,3 +41,14 @@ echo 'Library/Application Support/Arc/User Data' >>"$OUTPUT_FILE"
 # Keep only Library/ paths
 grep '^Library/' "$OUTPUT_FILE" | sort -u >"$OUTPUT_FILE.tmp"
 mv "$OUTPUT_FILE.tmp" "$OUTPUT_FILE"
+
+# Prepare the cask
+rm -f Retain-*.zip
+
+ts=$(date +%Y%m%d%H%M%S)
+zip -r "Retain-${ts}.zip" Retain.app
+zip_hash=$(shasum -a 256 "Retain-${ts}.zip" | awk '{print $1}')
+
+sed -i '' "s/^  version .*/  version \"${ts}\"/" Casks/retain.rb
+sed -i '' "s/^  sha256 .*/  sha256 \"${zip_hash}\"/" Casks/retain.rb
+sed -i '' "s|^\(  url .*\)/Retain-[0-9]\{14\}\.zip|\\1/Retain-${ts}.zip|" Casks/retain.rb

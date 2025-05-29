@@ -19,64 +19,36 @@ An opinionated backup script for macOS to backup your data to iCloud Drive.
 
 ## Installation
 
-Clone the repository and run the installer:
+Retain is available via Homebrew Cask. First tap the repository and install:
 
 ```bash
-# brew install fd mas
-git clone git@github.com:brc-dd/retain.git ~/.retain
-cd ~/.retain
-./install.sh
+brew tap brc-dd/retain https://github.com/brc-dd/retain
+brew install --no-quarantine --cask retain
 ```
 
-This will generate a LaunchAgent plist at `~/Library/LaunchAgents/dev.brc-dd.retain.plist` and load
-it to schedule automatic backups.
+This will install Retain.app into your Applications directory, run it once to prompt for Full Disk
+Access, and set up the LaunchAgent to schedule automatic backups.
 
-To verify the installation, check if the LaunchAgent is loaded:
-
-```bash
-launchctl list | grep dev.brc-dd.retain
-```
-
-To check if the LaunchAgent is working, you can kickstart it manually:
-
-```bash
-launchctl kickstart -k gui/$(id -u)/dev.brc-dd.retain
-```
+The backup archive will be placed in your iCloud Drive at `Retain/backup-[ComputerName].zip`.
 
 You can view the logs using:
 
 ```bash
-cat /tmp/retain.log # or tail -f /tmp/retain.log
-cat /tmp/retain.err # or tail -f /tmp/retain.err
+tail -f /tmp/retain.log
+tail -f /tmp/retain.err
 ```
-
-## Usage
-
-- **Manual backup**:
-  ```bash
-  cd ~/.retain
-  ./main.sh
-  ```
-- **Customize backup contents**: edit `include.txt` and `exclude.txt` to adjust which files are
-  included or skipped.
-- **Backup output**: the archive `backup.zip` is placed in your iCloud Drive:
-  `~/Library/Mobile Documents/com~apple~CloudDocs/backup.zip`
 
 ## Uninstallation
 
-To unload and remove the LaunchAgent:
-
 ```bash
-cd ~/.retain
-./uninstall.sh
+brew uninstall --zap --cask retain
 ```
 
 ## Development
 
-- Use `dump.sh` to regenerate `include.txt` from
-  [mackup/applications](https://github.com/lra/mackup/tree/master/mackup/applications). Needs `pnpm`
-  to be installed.
-- The LaunchAgent template is in `retain.plist.template`.
+- Use `prepare.sh` to update the include list from
+  [mackup/applications](https://github.com/lra/mackup/tree/master/mackup/applications) and generate
+  the zip archive and update the cask. Needs `pnpm` to be installed.
 
 ## Sponsors
 
