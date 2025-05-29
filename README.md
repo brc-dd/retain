@@ -1,56 +1,85 @@
 # Retain
 
-An opinionated backup script for macOS to backup your data to iCloud Drive.
+**Retain** is an automated, opinionated backup tool designed for macOS that archives your important files to iCloud Drive on a nightly basis.
 
-## Features
+## 🚀 Features
 
-- Generates a file list based on `include.txt` and `exclude.txt`.
-- Dumps global Homebrew packages via `brew bundle dump`.
-- Archives files into a ZIP and moves it to your iCloud Drive.
-- Runs automatically as a LaunchAgent at 9:00 AM daily.
+- **Automated Backups:** Creates daily backups of your home directory excluding system and unnecessary files.
+- **Customizable:** Configure your backup scope easily via custom `include.txt` and `exclude.txt`.
+- **Homebrew Integration:** Automatically dumps your global Homebrew package list for easy restoration.
+- **Seamless iCloud Integration:** Archives your data to a ZIP file stored directly in your iCloud Drive.
+- **Scheduled Execution:** Runs automatically as a LaunchAgent daily at 9:00 AM.
 
-## Requirements
+## 📦 Requirements
 
 - macOS
 - [Homebrew](https://brew.sh/)
 
-## Installation
+## 🛠 Installation
 
-Retain is available via Homebrew Cask. First tap the repository and install:
+Install Retain via Homebrew Cask:
 
 ```bash
 brew tap brc-dd/retain https://github.com/brc-dd/retain
 brew install --no-quarantine --cask retain
 ```
 
-This will install Retain.app into your Applications directory, run it once to prompt for Full Disk
-Access, and set up the LaunchAgent to schedule automatic backups.
+Your backups will appear at:
 
-The backup archive will be placed in your iCloud Drive at `Retain/backup-[ComputerName].zip`.
+```
+~/Library/Mobile Documents/com~apple~CloudDocs/Retain/backup-[ComputerName].zip
+```
 
-You can view the logs using:
+## 🗂 Configuration
+
+Retain allows detailed customization of backup behavior through two files located in `~/.config/retain/`:
+
+- `include.txt`: List paths relative to your home directory to explicitly include in the backup.
+- `exclude.txt`: Specify glob patterns to exclude from the backup process.
+
+### How it works
+
+- By default, Retain includes most files from your home directory but excludes system files, caches, temporary files, vendor directories, and directories already synced by iCloud Drive (e.g., `Documents`, `Desktop` — [See Apple Support](https://support.apple.com/en-in/109344)).
+- Patterns specified in `exclude.txt` only apply within your home directory and cannot override paths explicitly added in `include.txt`.
+- To backup directories typically not included, like your `Downloads` folder, you must explicitly add `Downloads` to your `include.txt`.
+- These patterns are merged with the default patterns provided by Retain, allowing you to customize your backup without losing the default behavior.
+
+You can use the following default files for reference:
+
+- [include.txt](./Retain.app/Contents/Resources/include.txt)
+- [exclude.txt](./Retain.app/Contents/Resources/exclude.txt)
+
+## 🖥 Monitoring Logs
+
+Check logs to monitor backup operations:
 
 ```bash
 tail -f /tmp/retain.log
 tail -f /tmp/retain.err
 ```
 
-## Uninstallation
+## ♻️ Uninstallation
+
+To remove Retain completely:
 
 ```bash
 brew uninstall --zap --cask retain
 ```
 
-## Development
+## 🔧 Development
 
-- Use `prepare.sh` to update the include list from
-  [mackup/applications](https://github.com/lra/mackup/tree/master/mackup/applications) and generate
-  the zip archive and update the cask. Needs `pnpm` to be installed.
+Update backup includes, regenerate the archive, and update the Homebrew Cask using:
 
-## Sponsors
+```bash
+./prepare.sh
+```
+
+This script requires `pnpm`.
+
+## 🙌 Sponsors
 
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/brc-dd/static/sponsors.svg">
-    <img alt="brc-dd's sponsors" src='https://cdn.jsdelivr.net/gh/brc-dd/static/sponsors.svg'/>
+    <img alt="Sponsors" src="https://cdn.jsdelivr.net/gh/brc-dd/static/sponsors.svg"/>
   </a>
 </p>

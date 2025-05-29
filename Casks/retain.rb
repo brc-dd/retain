@@ -1,8 +1,8 @@
 cask "retain" do
-  version "20250529141707"
-  sha256 "d970c92e6ba6c55968825514703fbcd411146edd8d704c6f5c81ac8a25bc9365"
+  version "20250529155653"
+  sha256 "280cebc5c056fdde50d97cb8945995785392fb57fa7e6c68da033d13202980d0"
 
-  url "https://raw.githubusercontent.com/brc-dd/retain/refs/heads/main/Retain-d970c92e.zip"
+  url "https://raw.githubusercontent.com/brc-dd/retain/refs/heads/main/Retain-280cebc5.zip"
   name "Retain"
   desc "Automated nightly iCloud drive backup"
   homepage "https://github.com/brc-dd/retain"
@@ -52,6 +52,7 @@ cask "retain" do
 
   zap trash: [
     "~/Library/Application Support/Retain",
+    "#{ENV["XDG_CONFIG_HOME"] || '~/.config'}/retain",
     "/tmp/retain.log",
     "/tmp/retain.err",
   ]
