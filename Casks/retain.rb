@@ -1,8 +1,8 @@
 cask "retain" do
-  version "20250529113629"
-  sha256 "d7d283e547bfdb762c6ba683699df43b5628649f8524b11493cb1c24a4798dfc"
+  version "20250529130547"
+  sha256 "ad53b8f5be90b9a2f15f40e1fa634390354264aedc4e947953b254e1a70d615c"
 
-  url "https://raw.githubusercontent.com/brc-dd/retain/refs/heads/main/Retain-20250529113629.zip"
+  url "https://raw.githubusercontent.com/brc-dd/retain/refs/heads/main/Retain-ad53b8f5.zip"
   name "Retain"
   desc "Automated nightly iCloud-Drive backup"
   homepage "https://github.com/brc-dd/retain"
@@ -48,7 +48,8 @@ cask "retain" do
     system_command "/bin/launchctl", args: ["load", "-w", plist_path]
   end
 
-  uninstall launchctl: "dev.brc-dd.retain"
+  uninstall launchctl: "dev.brc-dd.retain",
+            quit:      "dev.brc-dd.retain",
 
   zap trash: [
     "~/Library/Application Support/Retain",
