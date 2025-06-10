@@ -65,6 +65,7 @@ done < <(
 
 backup_list="$data_dir/backup.txt"
 printf '%s\n' "${include[@]}" >"$backup_list"
+sort -u "$backup_list" -o "$backup_list"
 
 cd "$HOME"
 backup_zip="$data_dir/backup.zip"
