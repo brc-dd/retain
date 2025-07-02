@@ -34,9 +34,6 @@ for cfg in applications/*; do
   done <"$cfg"
 done
 
-# Extra paths
-echo 'Library/Application Support/Arc/User Data' >>"$OUTPUT_FILE"
-
 # Keep only Library/ paths
 grep '^Library/' "$OUTPUT_FILE" | sort -u >"$OUTPUT_FILE.tmp"
 mv "$OUTPUT_FILE.tmp" "$OUTPUT_FILE"

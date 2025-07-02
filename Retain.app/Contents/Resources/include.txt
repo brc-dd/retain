@@ -25,7 +25,6 @@ Library/Application Support/appCode30
 Library/Application Support/appCode31
 Library/Application Support/AppCode32
 Library/Application Support/Apptivate/hotkeys
-Library/Application Support/Arc/User Data
 Library/Application Support/Atlantis
 Library/Application Support/AUSkey/keystore.xml
 Library/Application Support/Bartender/Bartender.BartenderPreferences
@@ -536,6 +535,7 @@ Library/Preferences/com.binarynights.ForkLift-3.plist
 Library/Preferences/com.binarynights.ForkLift2.plist
 Library/Preferences/com.bitcavehq.Airflow.plist
 Library/Preferences/com.bitgapp.eqMac2.plist
+Library/Preferences/com.bjango.istatmenus.menubar.7.plist
 Library/Preferences/com.bjango.istatmenus.plist
 Library/Preferences/com.bjango.istatmenus.status.plist
 Library/Preferences/com.bjango.istatmenus5.extras.plist
