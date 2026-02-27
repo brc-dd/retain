@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Download applications directory
-pnpx degit lra/mackup/mackup/applications applications --force # hangs on npx 11
+pnpx degit lra/mackup/src/mackup/applications applications --force # hangs on npx 11
 
 # Output file
 OUTPUT_FILE="Retain.app/Contents/Resources/include.txt"

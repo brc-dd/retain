@@ -19,6 +19,7 @@ Library/Application Support/Adobe/CameraRaw
 Library/Application Support/Adobe/Lightroom
 Library/Application Support/Adobe/OOBE
 Library/Application Support/Airflow
+Library/Application Support/AlDente
 Library/Application Support/AndroidStudio1.3
 Library/Application Support/appCode20
 Library/Application Support/appCode30
@@ -53,12 +54,14 @@ Library/Application Support/CLion2016.2
 Library/Application Support/ClipMenu
 Library/Application Support/Coda 2
 Library/Application Support/Code - Insiders/User/keybindings.json
+Library/Application Support/Code - Insiders/User/prompts
 Library/Application Support/Code - Insiders/User/settings.json
 Library/Application Support/Code - Insiders/User/snippets
 Library/Application Support/Code - OSS/User/keybindings.json
 Library/Application Support/Code - OSS/User/settings.json
 Library/Application Support/Code - OSS/User/snippets
 Library/Application Support/Code/User/keybindings.json
+Library/Application Support/Code/User/prompts
 Library/Application Support/Code/User/settings.json
 Library/Application Support/Code/User/snippets
 Library/Application Support/Colloquy
@@ -71,6 +74,9 @@ Library/Application Support/com.elgato.StreamDeck
 Library/Application Support/com.fournova.Tower2
 Library/Application Support/com.fournova.Tower3
 Library/Application Support/com.lightpillar.Mosaic/MosaicCoreData.storedata
+Library/Application Support/com.operasoftware.Opera
+Library/Application Support/com.operasoftware.OperaDeveloper
+Library/Application Support/com.operasoftware.OperaNext
 Library/Application Support/com.proxyman.NSProxy
 Library/Application Support/com.proxyman.NSProxy-setapp
 Library/Application Support/com.slate.Slate
@@ -84,6 +90,7 @@ Library/Application Support/com.uglyapps.HocusFocus/HocusFocus.db-wal
 Library/Application Support/Concentrate/Concentrate.sqlite3
 Library/Application Support/CoRD
 Library/Application Support/CotEditor
+Library/Application Support/Cultured Code/Licenses.plist
 Library/Application Support/Cursor/User/keybindings.json
 Library/Application Support/Cursor/User/settings.json
 Library/Application Support/Cursor/User/snippets
@@ -182,6 +189,7 @@ Library/Application Support/IntelliJIdea2018.3
 Library/Application Support/IntelliJIdea2019.1
 Library/Application Support/IntelliJIdea2019.2
 Library/Application Support/IntelliJIdea2019.3
+Library/Application Support/jesseduffield/lazydocker/config.yml
 Library/Application Support/jesseduffield/lazygit/config.yml
 Library/Application Support/JetBrains/CLion2023.1
 Library/Application Support/JetBrains/CLion2023.2
@@ -219,6 +227,8 @@ Library/Application Support/JetBrains/PyCharm2023.2
 Library/Application Support/JetBrains/PyCharmCE2020.1
 Library/Application Support/JetBrains/RubyMine2023.1
 Library/Application Support/JetBrains/RubyMine2023.2
+Library/Application Support/JetBrains/RustRover2025.2
+Library/Application Support/JetBrains/RustRover2025.3
 Library/Application Support/JetBrains/WebStorm2020.1
 Library/Application Support/JetBrains/WebStorm2020.2
 Library/Application Support/JetBrains/WebStorm2020.3
@@ -235,11 +245,15 @@ Library/Application Support/keepassx/keepassx2.ini
 Library/Application Support/keepassxc/keepassxc.ini
 Library/Application Support/Keyboard Maestro
 Library/Application Support/KeyRemap4MacBook/private.xml
+Library/Application Support/Kiro/User/keybindings.json
+Library/Application Support/Kiro/User/settings.json
+Library/Application Support/Kiro/User/snippets
 Library/Application Support/LaunchBar/Actions
 Library/Application Support/LaunchBar/Configuration.plist
 Library/Application Support/LaunchBar/CustomShortcuts.plist
 Library/Application Support/LaunchBar/Snippets
 Library/Application Support/lazygit/config.yml
+Library/Application Support/LightPaper/customCSS.css
 Library/Application Support/LightTable/plugins
 Library/Application Support/LightTable/settings
 Library/Application Support/LightTable/User
@@ -303,6 +317,7 @@ Library/Application Support/PhpStorm2019.3
 Library/Application Support/PhpStorm2019.4
 Library/Application Support/picgo/data.json
 Library/Application Support/pip/pip.conf
+Library/Application Support/Plover
 Library/Application Support/PokerStars
 Library/Application Support/PokerStarsEU
 Library/Application Support/PopClip/Extensions
@@ -315,10 +330,20 @@ Library/Application Support/PremiumSoft CyberTech
 Library/Application Support/PyCharm
 Library/Application Support/PyCharm2016.1
 Library/Application Support/PyCharm2016.2
+Library/Application Support/PyCharm2016.3
+Library/Application Support/PyCharm2017.1
+Library/Application Support/PyCharm2017.2
+Library/Application Support/PyCharm2017.3
 Library/Application Support/PyCharm2019.2
 Library/Application Support/PyCharm2019.3
 Library/Application Support/PyCharm40
 Library/Application Support/PyCharm50
+Library/Application Support/PyCharmCE2016.1
+Library/Application Support/PyCharmCE2016.2
+Library/Application Support/PyCharmCE2016.3
+Library/Application Support/PyCharmCE2017.1
+Library/Application Support/PyCharmCE2017.2
+Library/Application Support/PyCharmCE2017.3
 Library/Application Support/pypoetry/config.toml
 Library/Application Support/Querious
 Library/Application Support/Quicksilver
@@ -429,6 +454,9 @@ Library/ColorSync/Profiles
 Library/Containers/Affinity Designer/Data/Library/Application Support/user
 Library/Containers/Affinity Photo/Data/Library/Application Support/user
 Library/Containers/Affinity Publisher/Data/Library/Application Support/user
+Library/Containers/at.eggerapps.Postico/Data/Library/Application Support/Postico
+Library/Containers/at.eggerapps.Postico/Data/Library/Preferences/at.eggerapps.Postico.plist
+Library/Containers/ch.sudo.cyberduck/Data/Library/Application Support/Cyberduck
 Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.irc.textual.plist
 Library/Containers/com.flexibits.fantastical2.mac/Container.plist
 Library/Containers/com.IdeaPunch.ColorSlurp/Data/Library/Application Support/default.realm
@@ -448,6 +476,7 @@ Library/Developer/Xcode/UserData/SearchScopes.xcsclist
 Library/Developer/Xcode/UserData/xcdebugger
 Library/Gas Mask
 Library/Group Containers/6Z7QW53WB6.com.dejal.timeout
+Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck
 Library/iTunes/Scripts
 Library/KeyBindings/DefaultKeyBinding.dict
 Library/MonoDevelop-Unity-5.0/KeyBindings/Custom.mac-kb.xml
@@ -455,6 +484,7 @@ Library/MonoDevelop-Unity-5.0/Policies/Default.mdpolicy.xml
 Library/Music/Scripts
 Library/PDF Services
 Library/Preferences/.com.storyist.storyist.plist
+Library/Preferences/.GlobalPreferences.plist
 Library/Preferences/Adobe Illustrator 17 Settings
 Library/Preferences/Adobe Illustrator 18 Settings
 Library/Preferences/Adobe Illustrator 19 Settings
@@ -503,6 +533,7 @@ Library/Preferences/CLion2016.2
 Library/Preferences/co.gitup.mac.plist
 Library/Preferences/co.highlyopinionated.swish.plist
 Library/Preferences/com.3t.Robomongo.plist
+Library/Preferences/com.42squares.LightPaper.plist
 Library/Preferences/com.acqualia.soulver.plist
 Library/Preferences/com.adiumX.adiumX.plist
 Library/Preferences/com.adobe.illustrator.plist
@@ -514,6 +545,7 @@ Library/Preferences/com.adobe.Photoshop.plist
 Library/Preferences/com.agilebits.onepassword4.plist
 Library/Preferences/com.amethyst.Amethyst.plist
 Library/Preferences/com.aone.keka.plist
+Library/Preferences/com.apphousekitchen.aldente-pro.plist
 Library/Preferences/com.apple.dt.Xcode.plist
 Library/Preferences/com.apple.iChat.AIM.plist
 Library/Preferences/com.apple.iChat.Jabber.plist
@@ -560,6 +592,7 @@ Library/Preferences/com.contextsformac.Contexts.plist
 Library/Preferences/com.cordlessdog.Stay.plist
 Library/Preferences/com.coteditor.CotEditor.plist
 Library/Preferences/com.crowdcafe.windowmagnet.plist
+Library/Preferences/com.culturedcode.things.plist
 Library/Preferences/com.cyberic.SmoothMouse.plist
 Library/Preferences/com.daisydiskapp.DaisyDiskStandAlone.plist
 Library/Preferences/com.DanPristupov.Fork.plist
@@ -630,6 +663,9 @@ Library/Preferences/com.noodlesoft.Hazel.plist
 Library/Preferences/com.obsproject.obs-studio.plist
 Library/Preferences/com.oleganza.gitbox.plist
 Library/Preferences/com.omnigroup.OmniFocus.plist
+Library/Preferences/com.operasoftware.Opera.plist
+Library/Preferences/com.operasoftware.OperaDeveloper.plist
+Library/Preferences/com.operasoftware.OperaNext.plist
 Library/Preferences/com.oracle.mysql.workbench.plist
 Library/Preferences/com.panic.Coda2.plist
 Library/Preferences/com.panic.Nova.plist
@@ -806,10 +842,20 @@ Library/Preferences/pl.maketheweb.cleanshotx.plist
 Library/Preferences/pl.maketheweb.pixelsnap2.plist
 Library/Preferences/PyCharm2016.1
 Library/Preferences/PyCharm2016.2
+Library/Preferences/PyCharm2016.3
+Library/Preferences/PyCharm2017.1
+Library/Preferences/PyCharm2017.2
+Library/Preferences/PyCharm2017.3
 Library/Preferences/PyCharm2019.2
 Library/Preferences/PyCharm2019.3
 Library/Preferences/PyCharm40
 Library/Preferences/PyCharm50
+Library/Preferences/PyCharmCE2016.1
+Library/Preferences/PyCharmCE2016.2
+Library/Preferences/PyCharmCE2016.3
+Library/Preferences/PyCharmCE2017.1
+Library/Preferences/PyCharmCE2017.2
+Library/Preferences/PyCharmCE2017.3
 Library/Preferences/pypoetry/config.toml
 Library/Preferences/qv2ray/plugin_settings
 Library/Preferences/qv2ray/Qv2ray.conf
@@ -825,6 +871,8 @@ Library/Preferences/RubyMine50
 Library/Preferences/RubyMine60
 Library/Preferences/RubyMine70
 Library/Preferences/RubyMine80
+Library/Preferences/RustRover2025.2
+Library/Preferences/RustRover2025.3
 Library/Preferences/SmartGit/smartgit.vmoptions
 Library/Preferences/Stata 13 Preferences
 Library/Preferences/tracesOf.Uebersicht.plist
